@@ -18,7 +18,7 @@ The PubMed Abstract Classifier project requires PubMed abstract data for trainin
 the PubMed database or other reliable sources that provide access to medical research articles. 
 Ensure the data is in a suitable format, such as JSON or CSV, with the necessary information, including the abstract text and the corresponding labels or categories.
 
-You can find more detail about the dataset link and paper [here](https://paperswithcode.com/dataset/pubmed-rct) and you can find the dataset [here](clone https://github.com/Franck-Dernoncourt/pubmed-rct.git).
+You can find more detail about the dataset link and paper [here](https://paperswithcode.com/dataset/pubmed-rct) and you can find the dataset [here](https://github.com/Franck-Dernoncourt/pubmed-rct.git).
 
 ## Experiments
 | Experiment | Accuracy  | Precision    | Recall | F1-Score|
